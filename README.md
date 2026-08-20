@@ -11,7 +11,7 @@
 # Hi there, I'm Velusamy G 👋
 ### Java Developer & AI/ML Engineer | B.Tech Artificial Intelligence & Data Science Graduate
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-06b6d4?style=for-the-badge&logoColor=white)](https://VELUSAMY-22AI056.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-06b6d4?style=for-the-badge&logoColor=white)](https://VELUSAMY-22AIO56.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/velusamy-g)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velu2004.guru@gmail.com)
 
